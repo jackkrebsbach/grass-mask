@@ -11,4 +11,4 @@ ID Class
 3- lake 4 - shoreline 5 - sand
 6 - human_structure
 
-<img src="/mask.png" width="200px" height="300px"/>
+<img src="/mask.png" width="400px" height="600px"/>
