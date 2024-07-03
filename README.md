@@ -11,4 +11,5 @@ ID Class
 3- lake 4 - shoreline 5 - sand
 6 - human_structure
 
-![Mask for SHNA orthomosaic](mask.png)
+<img src={mask.png} width="200px" height="300px"/>
+
