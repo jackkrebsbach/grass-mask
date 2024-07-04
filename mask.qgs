@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="3.28.2-Firenze" saveUser="krebsbach" saveDateTime="2024-07-04T14:49:10" saveUserFull="Jack Krebsbach">
+<qgis projectname="" version="3.28.2-Firenze" saveUser="krebsbach" saveDateTime="2024-07-04T15:09:20" saveUserFull="Jack Krebsbach">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -56,10 +56,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>meters</units>
     <extent>
-      <xmin>564776.71035228227265179</xmin>
-      <ymin>4724509.01285836566239595</ymin>
-      <xmax>564803.60781758488155901</xmax>
-      <ymax>4724547.60209937859326601</ymax>
+      <xmin>564331.63170103984884918</xmin>
+      <ymin>4723948.04141771607100964</ymin>
+      <xmax>565444.55945192533545196</xmax>
+      <ymax>4725544.73600256256759167</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -152,13 +152,13 @@
       <extent>
         <xmin>-86.21576380309807064</xmin>
         <ymin>42.66666113242497715</ymin>
-        <xmax>-86.2075013601129001</xmax>
+        <xmax>-86.20742596928990054</xmax>
         <ymax>42.67640224521404946</ymax>
       </extent>
       <wgs84extent>
         <xmin>-86.21576380309807064</xmin>
         <ymin>42.66666113242497715</ymin>
-        <xmax>-86.2075013601129001</xmax>
+        <xmax>-86.20742596928990054</xmax>
         <ymax>42.67640224521404946</ymax>
       </wgs84extent>
       <id>mask_grass_paper_0593c2a2_83be_4d6e_a757_d0f98a8c36d2</id>
@@ -8215,7 +8215,7 @@ def my_form_open(dialog, layer, feature):
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0" rotation="0">
     <Scales/>
-    <DefaultViewExtent ymin="4724509.01285836566239595" ymax="4724547.60209937859326601" xmin="564757.58939930994529277" xmax="564822.72877055720891804">
+    <DefaultViewExtent ymin="4723948.04141771607100964" ymax="4725544.73600256256759167" xmin="563540.47019437316339463" xmax="566235.72095859202090651">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>PROJCRS["NAD83(2011) / UTM zone 16N",BASEGEOGCRS["NAD83(2011)",DATUM["NAD83 (National Spatial Reference System 2011)",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",6318]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["United States (USA) - between 90°W and 84°W onshore and offshore - Alabama; Arkansas; Florida; Georgia; Indiana; Illinois; Kentucky; Louisiana; Michigan; Minnesota; Mississippi; Missouri; North Carolina; Ohio; Tennessee; Wisconsin."],BBOX[23.97,-90,48.32,-84]],ID["EPSG",6345]]</wkt>
         <proj4>+proj=utm +zone=16 +ellps=GRS80 +units=m +no_defs</proj4>
